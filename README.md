@@ -1,4 +1,4 @@
-<h1>Taller 9 Nombre_del_estudiante</h1>
+<h1>Taller 9 Fabian Jose Cabiativa Musuzu</h1>
 
 <h2> Información</h2>
 
@@ -7,5 +7,6 @@
 
 <h2> Punto 1: Link figma</h2>
 
-<a href="" target="_blank">Link de Figma</a>
+<a href="https://www.figma.com/file/WHq381hbgLi9mZNDfWlto9/Untitled?type=design&node-id=1%3A249&mode=design&t=v0NbvJP0WZDXsSiO-1" target="_blank">Link de Figma</a>
 
+<h2>Punto 2: HTML</H2>
